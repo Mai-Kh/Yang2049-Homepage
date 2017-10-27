@@ -16,3 +16,4 @@
 <!ELEMENT size (small | medium | large)>
 <!ELEMENT color (black | blue | red | green)
 <!ELEMENT artisan (#PCDATA)>
+ 
